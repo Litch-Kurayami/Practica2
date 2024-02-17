@@ -1,0 +1,44 @@
+.encabezado
+{
+    text-align: center;
+}
+
+.tabla
+{
+    display: table;
+}
+
+.titulo
+{
+    display: table-caption;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.tituloCeldas
+{
+    display: table-row;
+    font-weight: bold;
+    text-align: center;
+}
+
+.fila
+{
+    display: table-row;
+}
+
+.celda
+{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    border: solid;
+    border-width: thick;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.celda-video {
+    max-width: 500px
+}
