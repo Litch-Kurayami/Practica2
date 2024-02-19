@@ -1,6 +1,6 @@
 body {
-    background-color: #000000; /* Fondo negro */
-    color: #ffffff; /* Texto en blanco para contrastar */
+    background-color: #000000; 
+    color: #ffffff; 
 }
 
 .encabezado {
@@ -39,7 +39,7 @@ body {
     border: solid;
     border-width: thick;
     padding: 10px;
-    background: linear-gradient(to bottom, #6a5acd, #000000); /* Degradado de morado oscuro a negro */
+    background: linear-gradient(to bottom, #6a5acd, #000000); 
     color: #ffffff;
 }
 
